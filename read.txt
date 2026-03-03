@@ -1,0 +1,76 @@
+📊 Customer Churn Prediction using Machine Learning
+📌 Problem Statement
+
+Customer churn is a major challenge in the telecom industry.
+The objective of this project is to predict whether a customer will churn based on demographic, service, and billing information.
+
+📁 Dataset Information
+
+7,043 customer records
+
+21 features
+
+Target variable: Churn (0 = No, 1 = Yes)
+
+Includes demographic, service usage, and billing data
+
+🛠️ Tech Stack
+
+Python
+
+Pandas
+
+NumPy
+
+Matplotlib
+
+Seaborn
+
+Scikit-learn
+
+🔍 Project Workflow
+
+Data Cleaning & Preprocessing
+
+Exploratory Data Analysis (EDA)
+
+Feature Engineering
+
+Model Building (Logistic Regression, Random Forest)
+
+Model Evaluation
+
+Feature Importance Analysis
+
+📈 Model Performance
+
+Random Forest Accuracy: ~79%
+
+Improved recall for churn class using class balancing
+
+Identified key churn drivers:
+
+Contract type
+
+Tenure
+
+Payment method
+
+Internet service type
+
+💡 Business Insights
+
+Month-to-month contract customers are more likely to churn.
+
+Customers with low tenure have higher churn risk.
+
+Electronic check payment method shows higher churn probability.
+
+Fiber optic users show increased churn tendency.
+
+🚀 Future Improvements
+
+Hyperparameter tuning
+
+Cross-validation
+
