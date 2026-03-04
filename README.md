@@ -73,3 +73,6 @@ Fiber optic users show increased churn tendency.
 Hyperparameter tuning
 
 Cross-validation
+
+[
+](https://github.com/gunturdeepika07-gif/Customer-Churn-Prediction/blob/main/feature_distribution.jpeg)
