@@ -74,5 +74,7 @@ Hyperparameter tuning
 
 Cross-validation
 
-[
+
+![WhatsApp Image 2026-03-03 at 21 36 57](https://github.com/user-attachments/assets/ebce4668-8810-4c6f-b1f4-db460b4ca037)
+
 ](https://github.com/gunturdeepika07-gif/Customer-Churn-Prediction/blob/main/feature_distribution.jpeg)
